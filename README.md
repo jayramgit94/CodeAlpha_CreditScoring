@@ -1,29 +1,32 @@
-# CodeAlpha - Credit Scoring Model
+# Credit Scoring Model - CodeAlpha Project
 
-## 📌 Objective
-This project predicts whether an individual is creditworthy based on their financial and personal data using Machine Learning models.
+## Objective
+The goal of this project is to predict whether a person is creditworthy based on their financial and personal information using machine learning.
 
-## 🧠 Algorithms Used
-- Logistic Regression
+## Algorithms Used
+We applied the following machine learning models:
+- Logistic Regression  
 - Random Forest Classifier
 
-## 📊 Evaluation Metrics
-- Accuracy
-- F1-Score
-- ROC-AUC
+## Evaluation Metrics
+To check how well the models perform, we used:
+- Accuracy  
+- F1-Score  
+- ROC-AUC Score  
 - Confusion Matrix
 
-## 📁 Dataset
-[Kaggle Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
+## Dataset
+We used a dataset from Kaggle:  
+[Credit Score Classification Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 
-## 📦 Tech Stack
-Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+## Tools and Libraries
+- Python  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook
 
-## 📈 Results
-Random Forest achieved an ROC-AUC Score of **__%** (Fill this after running)
-
-## 🎥 Demo Video
-[Add LinkedIn Video Link]
-
-## 🔗 GitHub Repo
-[Your GitHub Repo Link]
+## Results
+The Random Forest Classifier achieved an ROC-AUC Score of **__%**  
+(You can update this after running the model and getting the result.)
